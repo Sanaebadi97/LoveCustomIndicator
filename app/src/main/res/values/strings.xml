@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomLoveIndicator</string>
+    <string name="love">Love</string>
+    <string name="cheers">Cheers</string>
+    <string name="heart">Heart</string>
+    <string name="cake">Cake</string>
+</resources>

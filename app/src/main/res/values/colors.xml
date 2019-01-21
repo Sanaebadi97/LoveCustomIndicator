@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#253444</color>
+    <color name="colorPrimaryDark">#253444</color>
+    <color name="colorAccent">#7EEFF8</color>
+    <color name="main_header_bg">#2D3E50</color>
+    <color name="border">#00838F</color>
+
+</resources>
