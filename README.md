@@ -7,8 +7,12 @@
 
 
 
+
+
 CustomIndicator With ```Kotlin``` , ```AndroidX``` and ```Databinding```
 
+
+U CAN CHANGE IT AS U WANT ;)
 
 __I hope that it will be useful. And Fork it For Development :)__
 
