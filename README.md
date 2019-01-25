@@ -15,7 +15,7 @@ CustomIndicator With
 
 - ```AndroidX``` 
 
-```Databinding```
+- ```Databinding```
 
 
 
