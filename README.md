@@ -13,7 +13,7 @@ CustomIndicator With
 
 - ```Kotlin``` 
 
-```AndroidX``` and
+```AndroidX``` 
 
 ```Databinding```
 
