@@ -10,7 +10,8 @@
 
 
 CustomIndicator With 
-```Kotlin``` , 
+
+- ```Kotlin``` 
 
 ```AndroidX``` and
 
