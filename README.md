@@ -17,7 +17,7 @@ CustomIndicator With
 
 - ```Databinding```
 
-- ```CircleImageView`
+- ```CircleImageView```
 
 
 
