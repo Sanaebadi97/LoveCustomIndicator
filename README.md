@@ -19,7 +19,7 @@ CustomIndicator With
 
 - ```CircleImageView```
 
-- ```Badges (Item Counts)
+- ```Badges (Item 
 
 
 
