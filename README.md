@@ -1,4 +1,4 @@
-# LoveCustomIndicator
+# Love Custom Indicator
 
 __Gif Demo__
 
