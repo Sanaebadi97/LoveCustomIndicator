@@ -22,7 +22,7 @@ CustomIndicator With
 
 
 
-Step By Step With Love 
+Step By Step With Love Custom Indicator
 
 __I hope that it will be useful. And Fork it For Development :)__
 
