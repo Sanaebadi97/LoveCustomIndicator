@@ -22,8 +22,7 @@ CustomIndicator With
 
 
 
-
-U CAN CHANGE IT AS U WANT ;)
+Step 
 
 __I hope that it will be useful. And Fork it For Development :)__
 
