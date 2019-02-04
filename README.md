@@ -22,7 +22,7 @@ CustomIndicator With
 
 
 
-Step 
+Step By 
 
 __I hope that it will be useful. And Fork it For Development :)__
 
