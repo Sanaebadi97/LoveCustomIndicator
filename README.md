@@ -20,6 +20,8 @@ CustomIndicator With :
 
 - ```Badges```
 
+- ```bitmap```
+
 
 
 
