@@ -1,4 +1,4 @@
-# Love Custom Indicator
+# Custom Love Indicator
 
  #  Demo
 
